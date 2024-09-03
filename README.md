@@ -1,4 +1,4 @@
-# Genji-run
+# Genji-run And Star Army
 First game i ever made with my friend at the end of 10th grade.
 
 
