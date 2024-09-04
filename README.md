@@ -1,5 +1,5 @@
 # Genji-run And Star Army
-First game i ever made with my friend at the end of 10th grade.
+First game i ever made in 10th grade, and first website i ever made in 8th grade
 
 
 https://brannfjellskole.no/genjirunner/index.htm
